@@ -1,15 +1,15 @@
 body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background: linear-gradient(145deg, #000000, #0a0a0aa8);
-    overflow: hidden;
-    background-size: cover;
-    background-image: url("https://images.wallpapersden.com/image/download/snow-covered-mountains-under-black-cloudy-sky_bGtpamiUmZqaraWkpJRobWllrWdma2U.jpg");
-  }
+  margin: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(145deg, #000000, #0a0a0aa8);
+  overflow: hidden;
+  background-size: cover;
+  background-image: url(https://p16-sign-va.tiktokcdn.com/tos-maliva-i-photomode-us/cc9ecc0a9606439fb323c533ee28dea1~tplv-photomode-sr:1080:0:1080:0:q80.jpeg?dr=15675&nonce=60178&refresh_token=624f500c03d9a7d59b7f3d2477243b20&x-expires=1738717200&x-signature=B%2BxHGVsPd80oDtejHlMaPYqHaUY%3D&biz_tag=tt_photomode&idc=sg1&ps=28cf8ac7&s=AWEME_DETAIL&sc=image&shcp=1d1a97fc&shp=d05b14bd&t=5897f7ec);
+}
   
   .profile-container {
     position: relative;
