@@ -31,7 +31,7 @@ body {
   }
   
   .card {
-    background: linear-gradient(145deg, #000000ce, #000000ce);
+    background: linear-gradient(145deg, #000000, #000000);
     border-radius: 15px;
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.5);
     text-align: center;
