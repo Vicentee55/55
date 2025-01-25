@@ -269,7 +269,7 @@ body {
     font-size: 16px;
     font-weight: bold;
     color: white;
-    background: linear-gradient(145deg, #58f298, #58f298);
+    background: linear-gradient(145deg, ##000000, ##000000);
     border: none;
     border-radius: 30px;
     cursor: pointer;
