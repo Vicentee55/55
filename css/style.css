@@ -8,7 +8,7 @@ body {
   background: linear-gradient(145deg, #000000, #0a0a0aa8);
   overflow: hidden;
   background-size: cover;
-  background-image: url(https://cdn.discordapp.com/attachments/1193969989070368818/1325239179118121041/KKKKKKKKKKKKKKK.png?ex=6794c5ea&is=6793746a&hm=19a7b176ffbf002da818e325cc8905ec4bf85555ac41e5824b803066dd8023c4&);
+  background-image: url(https://br.trace.tv/wp-content/uploads/2024/02/TEMPLATE-FOTOS-PAUTAS-DO-SITE-mc-hariel.jpg);
 }
   
   .profile-container {
@@ -258,5 +258,30 @@ body {
   .sound-icon {
     width: 25px;
     height: 25px;
+  }
+  
+  #discord-button {
+    position: fixed;
+    bottom: 20px; /* Espaço da parte inferior */
+    left: 50%; /* Centraliza horizontalmente */
+    transform: translateX(-50%);
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background: linear-gradient(145deg, #58f298, #58f298);
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Espaço entre ícone e texto */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  #discord-button:hover {
+    transform: translateX(-50%) scale(1.1); /* Aumenta levemente no hover */
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.5);
   }
   
