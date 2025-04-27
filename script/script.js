@@ -1,4 +1,4 @@
-const userId1 = '1257769672720252951';
+const userId1 = '1348784696477220955';
 const avatarElement1 = document.getElementById('avatar1');
 const nicknameElement1 = document.getElementById('nickname-text1');
 const subnickElement1 = document.getElementById('subnick1');
