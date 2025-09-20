@@ -1,4 +1,4 @@
-const userId1 = '1348784696477220955';
+const userId1 = '1416556684738039909';
 const avatarElement1 = document.getElementById('avatar1');
 const nicknameElement1 = document.getElementById('nickname-text1');
 const subnickElement1 = document.getElementById('subnick1');
@@ -41,6 +41,7 @@ async function fetchLanyardData(userId, avatarElement, nicknameElement, subnickE
 
 
 fetchLanyardData(userId1, avatarElement1, nicknameElement1, subnickElement1, nitroBadge1, boostBadge1);
+
 
 
 
